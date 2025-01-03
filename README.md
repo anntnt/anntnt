@@ -2,7 +2,7 @@
 
 Hi there, I'm Ann.
 
-I've lived in Vienna, Austria, since 2003. I previously worked as a freelance web developer before joining a creative agency. During that time, I developed a strong passion for full-stack web development, which inspired me to complete a bootcamp and upskill in the PERN stack.
+I've lived in Vienna, Austria, since 2003. Previously, I worked as a freelance web developer before joining a creative agency. During that time, I developed a strong passion for full-stack web development, which inspired me to complete a bootcamp and upskill in the PERN stack.
 
 Here you can take a look at my recent projects.
 <br/>
