@@ -1,8 +1,8 @@
+Hi there, I'm Ann!
+
 ## About me
 
-Hi there, I'm Ann.
-
-I've lived in Vienna, Austria, since 2003. Previously, I worked as a freelance web developer before joining a creative agency. During that time, I developed a strong passion for full-stack web development, which inspired me to complete a bootcamp and upskill in the PERN stack.
+I've lived in Vienna, Austria. Previously, I worked as a freelance web developer before joining a creative agency. I love exploring new technologies and continuously improving my skills. 
 
 Here you can take a look at my recent projects.
 <br/>
@@ -13,7 +13,17 @@ Here you can take a look at my recent projects.
 <br/>
 
 <br/>
+### GitHub Stats
+![Ann's GitHub stats](https://github-readme-stats.vercel.app/api?username=anntnt&show_icons=true&theme=radical)
+<br/>
 
+<br/>
+### Contact Me
+- **Email:** anntnt.wien@gmail.com
+- **LinkedIn:** [linkedin.com/in/anntnt](https://linkedin.com/in/anntnt)
+- <br/>
+
+<br/>
 ### My hobbies
 
 🧘‍♀️ yoga  &nbsp;&nbsp;🚵‍♀️ cycling &nbsp;&nbsp;🌹 gardening &nbsp;&nbsp; 🏞 traveling &nbsp;&nbsp; 📚 reading
