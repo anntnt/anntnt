@@ -13,16 +13,21 @@ Here you can take a look at my recent projects.
 <br/>
 
 <br/>
+
 ### GitHub Stats
+
 [Ann's GitHub stats](https://github-readme-stats.vercel.app/api?username=anntnt&show_icons=true&theme=radical)
 <br/>
 
 <br/>
+
 ### Contact Me
-+ **Email:** [anntnt.wien@gmail.com](anntnt.wien@gmail.com)
-+ **LinkedIn:** [linkedin.com/in/anntnt](https://linkedin.com/in/anntnt)
-<br/>
-<br/>
+
+- **Email:** [anntnt.wien@gmail.com](anntnt.wien@gmail.com)
+- **LinkedIn:** [linkedin.com/in/anntnt](https://linkedin.com/in/anntnt)
+  <br/>
+  <br/>
+
 ### My hobbies
 
 🧘‍♀️ yoga &nbsp;&nbsp;🚵‍♀️ cycling &nbsp;&nbsp;🌹 gardening &nbsp;&nbsp; 🏞 traveling &nbsp;&nbsp; 📚 reading
