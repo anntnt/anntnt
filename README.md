@@ -23,7 +23,7 @@ Here you can take a look at my recent projects.
 
 ### Contact Me
 
-- **Email:** [anntnt.wien@gmail.com](anntnt.wien@gmail.com)
+- **Email:** anntnt.wien@gmail.com
 - **LinkedIn:** [linkedin.com/in/anntnt](https://linkedin.com/in/anntnt)
   <br/>
   <br/>
