@@ -2,7 +2,9 @@ Hi there, I'm Ann!
 
 ## About me
 
-I live in Vienna, Austria. I previously worked as a freelancer before joining several creative and digital agencies. Here you can take a look at my recent projects.
+I live in Vienna, Austria. I previously worked as a freelancer before joining several creative and digital agencies.
+<br/>
+Here you can take a look at my recent projects.
 
 <br/>
 
