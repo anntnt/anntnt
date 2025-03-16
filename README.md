@@ -1,3 +1,4 @@
+<div style="background-color: white; color:black;">
 Hi there, I'm Ann!
 
 ## About me
@@ -32,3 +33,5 @@ Here you can take a look at my recent projects.
 ### My hobbies
 
 🧘‍♀️ yoga &nbsp;&nbsp;🚵‍♀️ cycling &nbsp;&nbsp;🌹 gardening &nbsp;&nbsp; 🏞 traveling &nbsp;&nbsp; 📚 reading
+
+</div>
