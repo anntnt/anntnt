@@ -1,8 +1,8 @@
-Hi there, I'm Ann!
+Hi there, I'm Ann — based in Vienna, Austria.
 
 ## About me
 
-I started out freelancing and later worked with a few creative and digital agencies — building all kinds of web projects along the way.
+I started out in web development as a freelancer and later joined several creative and digital agencies, working on a wide range of web projects along the way.
 <br/>
 Here on GitHub, you’ll find some of my latest projects and experiments.
 
