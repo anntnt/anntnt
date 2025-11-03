@@ -2,9 +2,9 @@ Hi there, I'm Ann!
 
 ## About me
 
-I live in Vienna, Austria. I started as a freelancer before joining various creative and digital agencies.
+I started out freelancing and later worked with a few creative and digital agencies — building all kinds of web projects along the way.
 <br/>
-Here you can take a look at my recent projects.
+Here on GitHub, you’ll find some of my latest projects and experiments.
 
 <br/>
 
